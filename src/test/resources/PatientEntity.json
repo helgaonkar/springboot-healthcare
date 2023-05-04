@@ -1,0 +1,15 @@
+{
+  "user": {
+    "prefix": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "phoneNumber": 0,
+    "dob": "2023-04-17T06:55:16.939Z",
+    "gender": "string",
+    "role": "string",
+    "account": {
+      "emailId": "string",
+      "password": "string"
+    }
+  }
+}
